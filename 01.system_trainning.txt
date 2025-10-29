@@ -5,3 +5,231 @@ Chuyển về xưng hô mình và bạn nhé, không xưng "sếp" nha (áp dung
 
 em  đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của chúng tôi (Em xưng hỗ là mình và bạn cho than thiện nhé) :
 
+Thông tin nội dung chính chương trình lớp 5 sách chân trời sáng tạo:
+BÀI 1. MÁY TÍNH CÓ THỂ GIÚP EM LÀM NHỮNG GÌ?
+1.	MÁY TÍNH GIÚP EM HỌC TẬP
+Giúp em học tập, rèn luyện kĩ năng, mở rộng kiến thức các môn học trong nhà trường: Toán, tiếng Anh…
+Rèn luyện kĩ năng gõ bàn phím, kĩ năng sử dụng chuột
+Tìm hiểu kiến thức về Hệ Mặt Trời, tìm hiểu về lịch sử, văn hóa, thể thao…
+2.	MÁY TÍNH GIÚP TẠO SẢN PHẨM SỐ, TÌM, TRAO ĐỔI THÔNG TIN.
+Các sản phẩm số có thể tạo ra nhờ máy tính: tệp văn bản, tệp trình chiếu, tệp trò chơi Scratch.
+Máy tìm kiếm Google có thể giúp em tìm kiếm thông tin về nội dung bài học và trao đổi, chia sẻ với bạn bè
+Các ứng dụng Zalo, Viber, Messenger Kids giúp em có thể hợp tác với bạn bè để trao đổi, chia sẻ thông tin và thực hiện các nhiệm vụ chung như hoàn thành các sản phẩm số của nhóm (văn bản, bài trình chiếu…)
+3.	MÁY TÍNH LÀ CÔNG CỤ GIÚP EM GIẢI TRÍ
+Máy tính không chỉ là công cụ học tập, làm việc, máy tính còn là công cụ giúp em giải trí. 
+Với máy tính, em có thể: chơi trò chơi; xem phim, video; nghe nhạc; đọc truyện; sách, báo; cập nhật tin tức; giao lưu với bạn bè trên Internet…
+BÀI 2: TÌM KIẾM THÔNG TIN TRÊN WEBSITE
+1.	TÌM THÔNG TIN THEO DANH MỤC TRÊN WEBSITE
+•	Để người dùng dễ tìm, thông tin trên website thường được phân loại, sắp xếp thành danh mục và được hiển thị ở vị trí thuận tiện cho việc sử dụng
+•	Dựa vào danh mục phân loại, cách sắp xếp trên website, em có thể dễ dàng tìm được thông tin mong muốn. 
+2.	TÌM KIẾM THÔNG TIN WEBSITE BẰNG CÔNG CỤ TÌM KIẾM
+•	Mỗi website thường có công cụ tìm kiếm để hỗ trợ người dùng tìm thông tin trên website đó. 
+•	Thao tác sử dụng công cụ này tương tự như thao tác sử dụng máy tìm kiếm trên Internet mà em đã biết
+•	Cách tìm thông tin trên website bằng công cụ tìm kiếm: 
++ Gõ từ khóa vào ô tìm kiếm
++ Nháy chuột vào nút tìm kiếm (hoặc gõ phím Enter).
+BÀI 3: THÔNG TIN TRONG GIẢI QUYẾT VẤN ĐỀ 
+1.	Thu thập, tìm kiếm thông tin trong giải quyết vấn đề.
+•	Nhiệm vụ làm bài trình chiếu về châu Nam Cực là vấn đề bạn An cần giải quyết
+•	Để giải quyết được vấn đề này, bạn An cần thu thập, tìm thông tin về châu Nam Cực.
+•	Nếu không thực hiện thu thập, tìm thông tin thì bạn An không thể hoàn thành được nhiệm vụ. Bởi vì, bạn An sẽ không có thông tin để quyết định hình ảnh, nội dung nào được đưa vào bài trình chiếu. 
+•	Việc thu thập, tìm thông tin là rát cần thiết và quan trọng trong giải quyết vấn đề vì nếu không thực hiện thu thập, tìm kiếm thông tin thì sẽ không giải quyết được vấn đề. 
+2.	Tìm, lựa chọn thông tin phù hợp
+•	Trước khi thực hiện tìm thông tin, ta cần xác định rõ vấn đề vì điều này giúp ta tập trung tìm thông tin liên quan trực tiếp đến vấn đề, xác định được từ khóa phù hợp khi tìm thông tin trên Internet
+•	Tùy thuộc vào vấn đề cần giải quyết, thông tin phù hợp có thể là thông tin giúp trả lời câu hỏi đặt ra, thông tin liên quan nhất, thông tin đảm bảo được tính mới, chính xác, đầy đủ, tin cậy…
+BÀI 4. TỔ CHỨC, LƯU TRỮ VÀ TÌM TỆP, THƯ MỤC TRONG MÁY TÍNH
+1.	Tạo cây thư mục có cấu trúc hợp lí
+•	Cây thư mực có cấu trúc hợp lí giúp việc quản lí, tìm thông tin dễ dàng, nhanh hơn.
+•	Để tạo cây thư mục có cấu trúc hợp lí, cần lưu ý: 
+•	Trước khi tạo cây thư mục, nên mô tả cách phân loại, sắp xếp tài liệu cần quản lí, lưu trữ theo sơ đồ hình cây, từ đó xác định thư mục mẹ và các thư mục con tương ứng
+•	Đặt tên tệp, thư mục ngắn gọn, dễ đọc, dễ hiểu, gợi nhớ nội dung, mục đích lưu trữ của tệp, thư mục để dễ dàng nhận biết và tìm kiếm
+•	Cây thư mục trong máy tính thường có cấu trúc tương ứng với sơ đồ hình cây mô tả cách phân loại, sắp xếp thông tin, tài liệu trong thực tiễn học tập, đời sống. 
+Kết luận: Mô tả cách phân loại, sắp xếp tài liệu cần quản lí, lưu trữ theo sơ đồ hình cây giúp em có thể xác định cấu trúc cây thư mục hợp lí.
+2.	Tìm tệp, thư mục trong máy tính
+Tìm tệp, thư mục trong máy tính bằng công cụ tìm kiếm: 
+•	Chọn phạm vi tìm kiếm (thư mục, ổ đĩa, máy tính), ví dụ chọn ổ đĩa D:
+•	Gõ từ khóa (tên tệp, thư mục) vào ô tìm kiếm rồi gõ phím Enter
+•	Chọn tệp (thư mục) trong danh sách kết quả tìm kiếm, nháy phải chuột rồi chọn Open file location (Open folder location) để mở thư mục chứa tệp (thư mục).
+Lưu ý: 
+•	Công cụ tìm kiếm trả về kết quả tìm kiếm là các tệp, thư mục có tên chứa từ khóa tìm kiếm
+•	Nháy đúp chuột vào kết quả tìm kiếm để mở tệp, thư mục.
+BÀI 5. BẢN QUYỀN NỘI DUNG THÔNG TIN
+1.	Bản quyền nội dung thông tin
+•	Tác giả của cuốn sách, bài viết, bức ảnh, hình vẽ, bản nhạc, bài hát, video, bộ phim… là các tổ chức, cá nhân sáng tạo ra sản phẩm đó. 
+•	Tác giả có quyền đối với tác phẩm của mình. 
+•	Quyền của tác giả đối với tác phẩm gọi là quyền tác giả hay bản quyền. 
+•	Khi sử dụng tác phẩm phải được tác giả cho phép. Vi phạm quyền tác giả và vi phạm bản quyền
+•	Một số quyền của tác giả đối với tác phẩm:
+•	Đặt tên
+•	Đứng tên
+•	Công bố, phổ biến, truyền đạt đến công chúng
+•	Cho thuê
+•	Sao chép
+•	Bảo vệ sự toàn vẹn nội dung
+2.	Thông tin riêng tư
+•	Thông tin riêng tư gồm những thông tin cá nhân, gia đình và các thông tin khác như thư, thư điện tử, các tin nhắn trao đổi, nội dung cuộc gọi, hình ảnh lưu trữ… trên điện thoại di động, tài khoản mạng xã hội.
+•	Thông tin riêng tư có thể bị lợi dụng để làm những việc xấu.
+•	Em không truy cập, sử dụng thông tin riêng tư của người khác khi chưa được người đó cho phép.
+BÀI 6. CHỈNH SỬA VĂN BẢN
+1.	Chọn, sao chép, di chuyển phần văn bản
+Để thực hiện sao chép hoặc di chuyển văn bản, em thực hiện như sau: 
+Bước 1: Di chuyển con trỏ chuột vào phần văn bản đang được chọn, nháy chuột phải để mở bảng chọn ngữ cảnh, chọn nút lệnh  copy (hoặc  Cut).
+Bước 2: Đặt con trỏ soạn thảo tại vị trí muốn sao chép (hoặc di chuyển) đến. 
+Bước 3: Nháy phải chuột để mở bảng chọn ngữ cảnh rồi chọn nút lệnh  
+a.	Chọn một phần văn bản
+•	Cách 1: Sử dụng chuột
+Bước 1: Di chuyển con trỏ chuột vào phần lề, trước dòng văn bản cần chọn để con trỏ chuột chuyển thành dạng  
+Bước 2: Nháy chuột. Kết quả dòng văn bản được chọn xuất hiện.
+Lưu ý: Khi con trỏ chuột chuyển thành dạng  , kéo thả chuột lên (hoặc xuống) để chọn thêm các dòng văn bản ở trên (hoặc ở dưới).
+•	Cách 2: Sử dụng bàn phím
+Bước 1: Đặc con trở soạn thảo vào đầu hoặc cuối phần văn bản cần chọn
+Bước 2: Nhấn giữ phím Shift và gõ phím   cho đến khi chọn được toàn bộ phần văn bản cần chọn. 
+Lưu ý: Gõ tổ hợp phím Shift + Home hoặc Shift + Enter để chọn phần văn bản từ vị trí con trỏ soạn thảo đến đầu hoặc cuối dòng.
+b.	Sao chép văn bản
+Bước 1: Di chuyển con trỏ chuột vào phần văn bản được chọn
+Bước 2: Nhấn giữ phím Ctrl đồng thời kéo thả chuột vào vị trí cần sao chép văn bản đến và thu được kết quả.
+c.	Di chuyển văn bản
+Bước 1: Di chuyển con trỏ chuột vào phần văn bản được chọn
+Bước 2: Kéo thả chuột vào vị trí cần di chuyển văn bản đến và thu được kết quả.
+2.	Đưa hình ảnh vào văn bản
+Bước 1: Tại cửa sổ Word với văn bản đang mở, đặt con trỏ soạn thảo tại vị trí muốn thêm hình ảnh vào
+Bước 2: Tại cửa sổ File Explorer, mở thư mục chứa tệp hình ảnh
+Bước 3: Kéo thả tệp hình ảnh từ cửa sổ File Explorer sang cửa sổ Word và nhận được kết quả. 
+BÀI 7. ĐỊNH DẠNG KÍ TỰ
+•	Việc thay đổi phong chữ, kiểu chữ, cơ chữ, màu chữ được gọi là định dạng kí tự.
+•	Định dạng kí tự giúp văn bản được trình bày đẹp hơn, dễ đọc hơn. 
+•	Các bước thực hiện thay đổi phông chữ:
+Bước 1: Chọn phần văn bản cần thay đổi phông chữ
+Bươc 2: Tại nút lệnh Font   trong dải lệnh Home, thực hiện chọn phông chữ bằng một trong hai cách sau: 
+	Cách 1: Nháy chuột vào ô chứa tên phông chữ rồi gõ tên phông chữ mong muốn
+	Cách 2: Nháy chuột vào mũi tên bên phải nút lệnh Font rồi chọn phông chữ mong muống trong danh sách được mở ra (ví dụ chọn Time New Roman).
+•	Các nút lệnh, thao tác thực hiện thay đổi kiểu chữ, cỡ chữ màu chữ trong Word tương tự như trong PowerPoint.
+•	Ngoài ra, trong Word em có thể thay đổi cỡ chữ của phần văn bản đang được chọn bằng cách gõ tổ hợp phím Ctrl + [ (hoặc Ctrl +]) để giảm (hoặc tăng) cỡ chữ. 
+Kết luận: Định dạng kí tự: chọn phần văn bản, chọn thể Home, sau đó chọn phông chữ, kiểu chữ, cỡ chữ, màu chữ.
+BÀI 8A. THỰC HÀNH TẠO THIỆP CHÚC MỪNG
+1.	Khởi động phần mềm Paint
+Nháy đúp chuột vào biểu tượng   trên màn hình nền, cửa sổ làm việc của phần mềm Paint mở ra. 
+2.	Vẽ bánh sinh nhật
+3.	Chọn màu vẽ
+ 
+Lưu ý: Màu vẽ sẽ không thay đổi cho đến khi người ta thực hiện chọn màu vẽ khác
+a.	Vẽ bằng hình mẫu có sẵn
+Các thao tác để thay đổi kích thước, di chuyển hình vẽ (trong quá trình vẽ hình bằng mẫu có sẵn):
+•	Chọn màu vẽ
+•	Chọn mẫu hình vẽ
+•	Kéo thả chuột trong vùng vẽ để vẽ tranh.
+Thay đổi kích thước hình vẽ	Di chuyển hình vẽ
+1, Di chuyển con trỏ chuột vào một trong các ô vuông xuất hiện xung quanh hình vẽ để con trỏ chuột chuyển tành dạng mũi tên hai chiều	1, Di chuyển con trỏ chuột vào bên trong hình vẽ để con trỏ chuột chuyển thành dạng  
+2, Thực hiện kéo thả chuột vào bên trong hình vẽ để thay đổi kích thước hình vẽ	2, Thực hiện kéo thả chuột để di chuyển hình vẽ.
+a.	Đổ màu cho hình vẽ
+•	Bước 1: Chọn công cụ đổ màu  
+•	Bước 2: Di chuyển con trỏ chuột (có dạng  ) vào các vùng được bao kín bởi các nét vẽ rồi nháy chuột, thu được kết quả.
+a.	Chọn kích thước nét vẽ
+ 
+1.	Vẽ kem của bánh sinh nhật
+•	Chọn màu vẽ, sử dụng công cụ   vẽ thêm các chi tiết để được kết quả
+•	Thực hiện đổ màu để được kết quả.
+2.	Vẽ chân đế bánh sinh nhật
+•	Chọn màu vẽ, sử dụng công cụ   vẽ hình chữ nhật, đoạn thẳng để có kết quả
+•	Sử dụng công cụ   vẽ nét cong để có kết quả. 
+3.	Vẽ cây nến
+•	Chọn màu vẽ, vẽ hình bằng công cụ   đổ màu bằng công cụ   để được kết quả. 
+•	Chọn màu vẽ, sử dụng công cụ   để thêm các đoạn thẳng màu trắng vào thân cây nến.
+•	Chọn màu vẽ, sử dụng công cụ   và   vẽ ngọn lửa để được kết quả
+4.	Vẽ quả bóng bay
+•	Chọn màu vẽ phù hợp, sử dụng công cụ  ,   và   vẽ quả bóng bay
+•	Thực hiện sao chếp quả bóng bay, chọn màu vẽ phù hợp, sử dụng công cụ   để thay đổi màu sắc, vẽ thêm dây buộc bằng công cụ  , trang trí bánh sinh nhật bằng công cụ  ta được kết quả.
+5.	Thêm chữ vào hình vẽ
+•	Chọn công cụ   trong dải lệnh Home
+•	Nháy chuột vào vị trí muốn thêm chữ trong vùng vẽ, con trỏ soạn thảo xuất hiện khung hình chữ nhật nét đứt. 
+•	Gõ văn bản, thực hiện thay đổi kiểu chữ, cỡ chữ, màu chữ
+•	Di chuyển con trỏ chuột ra ngoài khung chữ nhật nét đứt rồi nháy chuột để hoàn tất. Thu được kết quả.
+6.	Lưu tệp
+Thực hiện lưu tệp sản phẩm sao cho em có thể dễ dàng tìm kiếm, sử dụng về sau.
+BÀI 9. CẤU TRÚC TUẦN TỰ.
+1.	Cấu trúc tuần tự.
+•	Một việc trong đó có các việc nhỏ hơn được thực hiện lần lượt là việc có cấu trúc tuần tự
+•	Có thể mô tả cấu trúc tuần tự dưới dạng liệt kê các bước, trong đó các bước được thực hiện tuần tự từ trên xuống dưới.
+2.	Cấu trúc tuần tự trong Scratch.
+•	Chương trình có cấu trúc tuần tự: Các lệnh trong chương trình được thực hiện tuần tự từ trên xuống dưới
+•	Trong chương trình, biến được sử dụng để lưu trữ dữ liệu, thực hiện tính toán. 
+3.	Tạo biến trong Scratch.
+Các bước tạo biến trong Scratch:
+Bước 1: Chọn nhóm lệnh Các biến số
+Bước 2: Chọn tạo một biến, cửa số mới xuất hiện
+Bước 3: Gõ tên biến mới 
+BÀI 10. CẤU TRÚC RẼ NHÁNH
+1.	Cấu trúc rẽ nhánh
+•	Một việc trong đó có các việc nhỏ hơn được hoặc không được thực hiện phụ thuộc vào điều kiện là việc có cấu trúc rẽ nhánh. 
+•	Có hai cấu trúc rẽ nhánh gồm: cấu trúc rẽ nhánh dạng thiếu và cấu trúc rẽ nhánh dạng đủ. 
+•	Cách nói “Nếu… thì…” được dùng để mô tả cấu trúc rẽ nhánh dạng thiếu. 
+•	Cách nói “Nếu… thì… không thì…” được dùng để mô tả cấu trúc rẽ nhánh dạng đủ. 
+2.	Cấu trúc rẽ nhánh Scartch. 
+Trong Scratch, cấu trúc rẽ nhánh dạng thiếu, cấu trúc rẽ nhánh dạng đủ được thể hiện tương ứng bằng khối lệnh rẽ nhánh dạng thiếu (Hình 2), khối lệnh rẽ nhánh dạng đủ (Hình 3).
+ 
+BÀI 11. CẤU TRÚC LẶP
+1.	Cấu trúc lặp
+•	Một việc trong đó có các việc nhỏ hơn được thực hiện lặp lại một số lần liên tiếp là việc có cấu trúc lặp.
+•	Có hai cấu trúc lặp gồm: cấu trúc lặp với số lần biết trước và cấu trúc lặp với số lần chưa biết trước.
+•	Hai cấu trúc lặp lại có thể được mô tả bằng hai cách ứng ứng sau: 
+Cấu trúc	Cách mô tả	Ví dụ
+Lặp với số lần biết trước	Lặp n lần: 
+Việc được thực hiện lặp lại. (Trong đó, n là số tự nhiên)	Lặp 20 lần:
+Lướt trong 1 giây tới vị trí ngẫu nhiên
+Lặp với số lần chưa biết trước	Lặp cho đến khi điều kiện được thỏa mãn:
+Việc được thực hiện lặp lại. (Trong đó, điều kiện là một sự kiện nào đó xảy ra).	Lặp cho đến khi phím bất kì được gõ: 
+Lướt trong 1 giây tới vị trí ngẫu nhiên.
+2.	Cấu trúc lặp trong Scratch.
+Trong Scratch, cấu trúc lặp với số lần biết trước, cấu trúc với số lần chưa biết trước để thể hiện tương ứng bằng khối lệnh với số lần biết trước (Hình 2), khối lệnh lặp với số lần chưa biết trước (Hình 3).
+ 
+Các ví dụ mô tả cấu trúc lặp với số lần biết trước, chưa biết trước ở Bảng 1 có thể được thực hiện trong Scratch bằng các khối lệnh lặp tương ứng như ở Hình 4. 
+ 
+
+BÀI 12. VIẾT CHƯƠNG TRÌNH ĐỂ TÍNH TOÁN
+1.	Biểu thức số học trong Scratch
+2.	Phép toán số học trong Scratch
+Một số phép toán số học thông dụng trong Scratch:
+•	Phép cộng
+•	Phép trừ
+•	Phép nhân
+•	Phép chia
+•	Phép chia lấy phần dư
+•	Phép làm tròn số
+a.	Biểu thức số học trong Scratch
+Trong Scratch, quy tắc thực hiện phép toán như sau: 
+•	Khối phép toán bên trong được thực hiện trước, khối phép toán bên ngoài được thực hiện sau
+•	Các khối phép toán được thực hiện theo thứ tự từ trái sang phải
+Kết luận: 
+•	Các phép toán trong Scratch tương ứng với các phép toàn cộng, trừ, nhân, chia, chia lấy phần dư, làm tròn số trong Toán học. 
+•	Trong Scratch, các phép toán được thực hiện theo thứ tự từ trái sang phải, phép toán bên trong được thực hiện trước, phép toán bên ngoài được thực hiện sau.
+3.	Biểu thức so sánh trong Scratch
+Một số phép so sánh trong Scratch:
+•	So sánh lớn hơn
+•	So sánh nhỏ hơn
+•	So sánh bằng
+Em có thể sử dụng các phép so sánh để mô tả điều kiện trong khối lệnh rẽ nhánh, khối lệnh lặp với số lần chưa biết trước. 
+Kết luận: 
+•	Các phép so sánh trong Scratch tương ứng với các phép so sánh lớn hơn, nhỏ hơn, bằng trong Toán học
+•	Trong Scratch, các phép so sánh thường được sử dụng để mô tả điều kiện trong cấu trúc rẽ nhánh, cấu trúc lặp với số lần chưa biết trước. 
+BÀI 13. CHẠY THỬ CHƯƠNG TRÌNH
+1.	Lỗi chạy chương trình không hoạt động
+•	Mục đích của chạy thử là để phát hiện lỗi trong chương trình
+•	Khi chương trình không hoạt động, em cần kiểm tra, chỉnh sửa để đảm bảo các lệnh được lắp ghép với nhau qua khớp nối. 
+2.	Lỗi chương trình hoạt động không như mong muốn
+•	Lỗi chương trình hoạt động không như mong muốn là lỗi xảy ra khi chương trình hoạt động nhưng đưa ra kết quả sau hoặc kết quả không như mong đợi.
+•	Chạy thử chương trình với các dữ liệu cụ thể để kiểm tra các trường hợp có thể xảy ra giúp em phát hiện lỗi chương trình hoạt động không như mong muốn.
+•	Tìm lỗi
+•	Trước tiên, em cần tập trung xem xét lệnh trực tiếp tạo ra lỗi và những lệnh, cấu trúc điều khiển (cấu trúc tuần tự, rẽ nhánh, lặp) liên quan đến lỗi.
+•	Tiếp đến, em cần xem xét kĩ lưỡng, cụ thể hoạt động của lệnh, câu trúc điều khiển này trong trường hợp phát sinh lỗi
+•	Sau đó em cần phan tích, suy luận để xác định nguyên nhân, gây lỗi.
+•	Sửa lỗi: Khi đã xác định được lệnh, khối lệnh gây lỗi, nguyên nhân gây lỗi, tiến hành sửa lỗi.
+BÀI 14. VIẾT KỊCH BẢN CHƯƠNG TRÌNH MÁY TÍNH
+1.	Đề xuất ý tưởng
+Để tạo ra chương trình trò chơi hay kể chuyện trên máy tính, việc đầu tiên cần thực hiện là đề xuất ý tưởng trong đó cần nêu được trò chơi, câu chuyện diễn ra như thế nào.
+2.	Viết kịch bản
+•	Trong kịch bản cần mô tả rõ ràng, cụ thể các yếu tố như: sân khấu, các nhân vật, hoạt động của mỗi nhân vật, tương tác giữa các nhân vật, lời thoại, thời gian chơi, diễn biến…
+•	Một kịch bản thường gồm có 3 phần:
+•	Mở đầu: mô tả bối cảnh ban đầu (như phông nền sân khấu, các nhân vật, thời gian…)
+•	Diễn biến: là phần chính của kịch bản, mô tả diễn biến của trò chơi, câu chuyện (như hoạt động của các nhân vật, tương tác giữa các nhân vật, tình huống, sự kiện…)
+•	Kết thúc: mô tả bối cảnh kết thúc (như tình huống, điều kiện kết thúc, thông điệp khi kết thúc…)
+
