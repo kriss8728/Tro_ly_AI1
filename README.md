@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Trợ Lý Tin học
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
+Chương trình chatbot được tạo ra từ Thầy Hải Tin học An Lạc 2
 
